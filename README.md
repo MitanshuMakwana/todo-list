@@ -1,8 +1,8 @@
-✅ TO-DO List
+# ✅ TO-DO List
 A simple to-do list using HTML, CSS, and JavaScript. Here you can add you task that is to be done by you
 
 
-🚀 Features
+# 🚀 Features
 - Add NEW tasks.
 - Delete tasks.
 - Mark tasks as completed.
@@ -16,10 +16,11 @@ JavaScript – for all game logic and interactivity
 ---
 
 
-📂 File Structure
-
+# 📂 File Structure
+```
 
 ├── index.html # Main HTML file for the game layout
 ├── style.css # CSS for styling the game board
 ├── script.js # JavaScript for game logic
 └── README.md # Project documentation
+```
